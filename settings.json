@@ -1,12 +1,12 @@
 {
   "name": "Notch",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Notch",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MagicalSMP0.aternos.me",
+    "ip": "vmagicsmp.aternos.me",
     "port": 62997,
     "version": "",
     "try-creative": false
