@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vmagicsmp.aternos.me",
+    "ip": "magicalcitysmp.aternos.me",
     "port": 39274,
     "version": "1.21.1",
     "try-creative": false
